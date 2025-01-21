@@ -1,0 +1,10 @@
+ftfy==6.1.1                      # Corrige texto com encoding quebrado
+librosa==0.10.1                  # Processamento de áudio/música
+matplotlib==3.8.0                # Visualização de dados e gráficos
+numpy==1.25.2                    # Operações numéricas/arrays
+opencv-contrib-python==4.8.1.78  # OpenCV com módulos extras
+opencv-python==4.8.1.78          # Processamento de imagem/vídeo
+scikit-learn==1.3.1              # Algoritmos de aprendizado de máquina
+torch==2.1.0                     # Framework para aprendizado profundo
+torchvision==0.16.0              # Trabalha com dados visuais no PyTorch
+tqdm==4.66.1                     # Barra de progresso em loops
