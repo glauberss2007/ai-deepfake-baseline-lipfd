@@ -44,4 +44,6 @@ python validate.py --real_list_path ./datasets/val/0_real --fake_list_path ./dat
 
 Trabalhos futuros incluem expandir o LipFD para lidar com várias línguas, melhorar a robustez para diferentes técnicas de geração de deepfakes e desenvolver uma implementação em tempo real para aplicações práticas.
 
+TODO: Buscar formas de melhorar!
+
 ## Referências
