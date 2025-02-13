@@ -1,0 +1,33 @@
+# Exclude directories containing large files or generated data
+data/
+models/
+
+# Exclude files generated during the training process
+Scratches and Consoles/
+
+# Exclude Python bytecode files
+*.pyc
+__pycache__/
+
+# Exclude temporary files
+*.tmp
+*.log
+
+# Exclude IDE-specific files (adjust according to your IDE)
+*.idea/
+.vscode/
+
+# Exclude operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Exclude virtual environment files
+.venv/
+env/
+venv/
+
+# Exclude external libraries (if not committed)
+External Libraries/
+
+#Potentially exclude the options directory
+options/
